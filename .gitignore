@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Local editor / tooling config
+.claude/
+
+# Copyrighted source material — do NOT publish.
+# The vocabulary was adapted from Cambridge "Power Up Level 1" wordcards;
+# the original PDF is © Cambridge University Press and must not be redistributed.
+*.pdf
+
+# Local scratch / build artifacts
+/tmp/
+*.log
