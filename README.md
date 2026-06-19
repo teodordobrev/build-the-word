@@ -2,7 +2,7 @@
 
 A cheerful, offline-friendly **spelling game for kids aged 4–7** learning to read English. Drag letter tiles to build a word, and an obscured picture is revealed as you go. Works great on an **iPhone or iPad** (and any modern browser), and can be installed to the Home Screen as a full-screen app.
 
-> Vocabulary is adapted from the **Cambridge "Power Up" Level 1** young-learners word list — ~170 words across topics like school, animals, food, toys, sports, clothes and the beach.
+> Vocabulary is adapted from the common CEFR/A1-level and Cambridge kids book word list — ~170 words across topics like school, animals, food, toys, sports, clothes and the beach.
 
 - **Single file**, no build step, no dependencies — the whole game is one `index.html`.
 - **Offline-capable PWA** — install it once and play with no internet.
@@ -93,6 +93,6 @@ Levels are generated automatically: words are sorted by length and grouped 6 per
 
 Code is released under the [MIT License](LICENSE) — use, modify, and deploy freely.
 
-The vocabulary is adapted from the **Cambridge "Power Up" Level 1** word list (© Cambridge University Press & Assessment). The original word-card PDF is **not** included in this repository and must not be redistributed; only the plain list of common English words was used to build the game. "Power Up" and related marks belong to their respective owners. This is an independent, non-commercial educational project and is not affiliated with or endorsed by Cambridge.
+The vocabulary is adapted from thethe common CEFR/A1-level and Cambridge kids book word list. Only the plain list of common English words was used to build the game. All related marks/trademarks belong to their respective owners. This is an independent, non-commercial educational project and is not affiliated with or endorsed by anyone.
 
 Emoji artwork is rendered by the player's own device/operating system.
