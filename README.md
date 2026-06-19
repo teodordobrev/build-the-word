@@ -13,7 +13,7 @@ A cheerful, offline-friendly **spelling game for kids aged 4–7** learning to r
 If you've deployed it (see below), it lives at:
 
 ```
-https://<your-github-username>.github.io/build-the-word/
+https://teodordobrev.github.io/build-the-word/
 ```
 
 ## 📱 Install on iPhone / iPad
@@ -41,11 +41,6 @@ It's just static files — no server or install needed.
 ```bash
 # easiest: open the file directly
 open index.html        # macOS
-
-# or serve it (recommended, so the service worker / offline mode works)
-python3 -m http.server 8000
-# then visit http://localhost:8000
-```
 
 ## 🚀 Deploy your own (free, via GitHub Pages)
 
@@ -94,5 +89,6 @@ Levels are generated automatically: words are sorted by length and grouped 6 per
 Code is released under the [MIT License](LICENSE) — use, modify, and deploy freely.
 
 The vocabulary is adapted from thethe common CEFR/A1-level and Cambridge kids book word list. Only the plain list of common English words was used to build the game. All related marks/trademarks belong to their respective owners. This is an independent, non-commercial educational project and is not affiliated with or endorsed by anyone.
+The idea comes from my friend https://borislavlazarov.github.io/sglobi-dumata/
 
 Emoji artwork is rendered by the player's own device/operating system.
